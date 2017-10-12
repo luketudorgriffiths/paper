@@ -1,0 +1,62 @@
+/* Color Cards */
+
+.cards-wrapper {
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+}
+
+.colour-card-wrapper {
+  display: inline-block;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  width: 140px;
+  grid-column: span 3;
+
+  @media screen and (min-width: 1080px) {
+    grid-column: span 2;
+  }
+}
+
+.cards-wrapper-title {
+  grid-column: 1 / 12;
+}
+
+.colour-card {
+  height: 240px;
+  width: 130px;
+  /*border: 1px solid rgba(0,0,0,0.5);*/
+  padding-top: 10px;
+  box-shadow: 0px 2px 8px rgba(0,0,0,0.2);
+}
+
+.colour-card__colour-field {
+  height: 120px;
+  width: 120px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 10px;
+}
+
+.colour-card__label-wrapper {
+  padding: 10px;
+}
+
+.colour-card__label-title {
+  display: block;
+}
+
+.colour-card__label-hex-value {
+  display: block;
+}
+
+.colour-card__label-rgb-value {
+  display: block;
+}
+
+.colour-card-comment {
+  width: 100%;
+  font-size: 14px;
+  line-height: 18px;
+  color: rgba(0,0,0,0.7);
+  margin-top: 10px;
+}

@@ -11,7 +11,11 @@
     <%= javascript_include_tag "site" %>
   </head>
   <body>
-    <h1>Test Yo</h1>
-    <%= yield %>
+    <main>
+      <%= yield %>
+    </main>
+    <aside>
+      <ul><%= tree_to_html(data.tree) %></ul>
+    </aside>
   </body>
 </html>
