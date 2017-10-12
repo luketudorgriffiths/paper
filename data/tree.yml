@@ -1,0 +1,6 @@
+---
+index.html.erb: "/index.html.erb"
+content:
+  foundation:
+    01-intro.html.erb: "/content/foundation/01-intro.html.erb"
+    02-next.html.erb: "/content/foundation/02-next.html.erb"
