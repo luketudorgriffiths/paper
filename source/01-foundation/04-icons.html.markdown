@@ -2,6 +2,7 @@
 title: Icons
 ---
 
+#Icons
 
 <section class="icon-demo__wrapper">
 
@@ -255,3 +256,14 @@ title: Icons
     <span class="icon-demo__label">Written text</span>
   </figure>
 </section>
+
+
+## Creating a new icon
+
+Icons are designed to a 20px grid at 100% for maximum clarity.
+
+A minimum of 10px of clear space around the icon is required to provide a sufficient area for touch devices.
+
+![Icon Grid](../images/icogrid.png "Icon Grid")
+
+Check out our handy documentation over on [Github](https://github.com/Financial-Times/fticons/blob/master/contributing.md) if you would like to add a new icon.
