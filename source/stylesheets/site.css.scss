@@ -1,6 +1,7 @@
 @import "sidebar";
 @import "colours";
 @import "typography";
+@import "icons";
 @import "colour-cards";
 
 body {
@@ -13,4 +14,8 @@ body {
 
 main {
   grid-column: 3 / 12;
+}
+
+img {
+  width: 100%;
 }

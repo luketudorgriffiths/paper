@@ -8,7 +8,9 @@
     <!-- Use the title from a page's frontmatter if it has one -->
     <title><%= current_page.data.title || "Middleman" %></title>
     <%= stylesheet_link_tag "site" %>
+    <link rel="stylesheet" href="https://www.ft.com/__origami/service/build/v2/bundles/css?modules=o-fonts,o-buttons,o-icons" />
     <%= javascript_include_tag "site" %>
+    <script async type="javascript" src="https://www.ft.com/__origami/service/build/v2/bundles/js?modules=o-fonts,o-buttons,o-icons"></script>
   </head>
   <body>
     <main>
