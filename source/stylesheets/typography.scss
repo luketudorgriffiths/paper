@@ -7,20 +7,24 @@ h1, h2, h3 {
 }
 
 h1 {
+  font-size: 3rem;
   margin-bottom: 40px;
 }
 
 h2 {
+  font-size: 1.75rem;
   margin-top: 60px;
 }
 
 h3 {
+  font-size: 1.5rem;
   margin-top: 40px;
 }
 
 p {
   max-width: 500px;
-  line-height: 24px;
+  font-size: 1.25rem;
+  line-height: 1.5rem;
 }
 
 strong {
