@@ -6,16 +6,23 @@
 
 body {
   color: $text-black;
-  font-family: $sans-serif;
+  font-family: $metric;
   font-size: 18px;
+  line-height: 20px;
   display: grid;
   grid-template-columns: repeat(12, 1fr);
 }
 
 main {
-  grid-column: 3 / 12;
+  grid-column: 4 / 12;
 }
 
 img {
   width: 100%;
+}
+
+.grid-wrapper {
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
 }

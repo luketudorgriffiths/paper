@@ -1,5 +1,62 @@
-$sans-serif: "Metric", "Helvetica", "Arial", sans-serif;
+$metric: "Metricweb", "Helvetica", "Arial", sans-serif;
+$financier: "Financierdisplayweb", "Georgia", serif;
+$georgia: "Georgia", serif;
 
-h1, h2 {
+h1, h2, h3 {
   font-weight: 500;
+}
+
+h1 {
+  margin-bottom: 40px;
+}
+
+h2 {
+  margin-top: 60px;
+}
+
+h3 {
+  margin-top: 40px;
+}
+
+p {
+  max-width: 500px;
+  line-height: 24px;
+}
+
+strong {
+  font-weight: 600;
+}
+
+.typography-demo {
+  font-size: 3rem;
+  line-height: 4rem;
+  letter-spacing: 5px;
+  grid-column: span 8;
+  background-color: rgba(0,0,0,0.1);
+  padding: 20px;
+}
+
+.typography-demo--uppercase  {
+  text-transform: uppercase;
+}
+
+.typography-demo--financier {
+  font-family: $financier;
+}
+
+.typography-demo--metric {
+  font-family: $metric;
+}
+
+.typography-demo--metric-semibold {
+  font-family: $metric;
+  font-weight: 600;
+}
+
+.typography-demo--georgia {
+  font-family: $georgia;
+}
+
+.typography-demo-wrapper {
+  margin-bottom: 20px;
 }
