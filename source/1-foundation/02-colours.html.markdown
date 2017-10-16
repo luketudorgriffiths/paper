@@ -4,7 +4,7 @@ title: Colours
 
 # Colours
 
-The color palette is optimised to comply with WCAG 2.0 level AA with a minimum contrast ratio of 4.5:1.
+**The color palette has been optimised and rationalised for screen-use on the web and apps. The derive from the print product, our brand, and editorial use-cases. They are grouped into three hierarchical palettes where each color follows a defined usecase. The pallete is optimised to comply with WCAG 2.0 level AA with a minimum contrast ratio of 4.5:1.**
 
 
 <section class="cards-wrapper">
