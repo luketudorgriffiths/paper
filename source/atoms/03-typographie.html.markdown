@@ -1,8 +1,8 @@
 ---
-title: Typoghraphy
+title: Typoghraphie
 ---
 
-# Typography
+# Typographie
 
 **Our digital products are using three typefaces: Financier, Metric and Georgia. Financier and Metric are based on the redesign of the print newspaper and are part of our branding. Both typeface where created by the [Klim Type Foundry](https://klim.co.nz). Georgia is based as a supporting typeface for the web.**
 
@@ -96,7 +96,7 @@ Used for the body-text of the article.
 
 ## Typographic scale
 
-Our typography uses a single scale for use with all fonts. The scale consists of font-size and line-height combinations, as shown below.
+Our typographie uses a single scale for use with all fonts. The scale consists of font-size and line-height combinations, as shown below.
 
 | Scale | Font Size     | Line Height |
 | ----- |:-------------:| -----------:|
