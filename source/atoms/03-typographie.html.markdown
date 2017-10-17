@@ -99,7 +99,7 @@ Used for the body-text of the article.
 Our typographie uses a single scale for use with all fonts. The scale consists of font-size and line-height combinations, as shown below.
 
 | Scale | Font Size     | Line Height |
-| ----- |:-------------:| -----------:|
+|:----- |:------------- |:----------- |
 | -2    | 12px          | 16px |
 | -1    | 14px          | 16px |
 | 0     | 16px          | 20px |
@@ -117,7 +117,7 @@ Our typographie uses a single scale for use with all fonts. The scale consists o
 ## Use cases
 
 | Use Case | Font     | Size | Weight |
-| ----- |:-------------:|:-------------:| -----------:|
+|:----- |:------------- |:------------- |:----------- |
 | Headlines Default | FinancierDisplayWeb | 40/40 | - |
 | Headlines Large    | FinancierDisplayWeb | 52/? | - |
 | Headline Large Bold | FinancierDisplayWeb | 48/48 | - |
