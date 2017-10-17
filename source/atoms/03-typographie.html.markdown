@@ -114,6 +114,34 @@ Our typographie uses a single scale for use with all fonts. The scale consists o
 | 9     | 72px          | 72px |
 | 10    | 84px          | 84px |
 
+### Scale demo
+
+<div class="type-scale-demo-item"><span class="type-scale-demo-item-index">-2</span><span class="type-scale-minus-2">Don't settle for black and white.</span></div>
+
+<div class="type-scale-demo-item"><span class="type-scale-demo-item-index">-1</span><span class="type-scale-minus-1">Don't settle for black and white.</span></div>
+
+<div class="type-scale-demo-item"><span class="type-scale-demo-item-index">0</span><span class="type-scale-0">Don't settle for black and white.</span></div>
+
+<div class="type-scale-demo-item"><span class="type-scale-demo-item-index">1</span><span class="type-scale-1">Don't settle for black and white.</span></div>
+
+<div class="type-scale-demo-item"><span class="type-scale-demo-item-index">2</span><span class="type-scale-2">Don't settle for black and white.</span></div>
+
+<div class="type-scale-demo-item"><span class="type-scale-demo-item-index">3</span><span class="type-scale-3">Don't settle for black and white.</span></div>
+
+<div class="type-scale-demo-item"><span class="type-scale-demo-item-index">4</span><span class="type-scale-4">Don't settle for black and white.</span></div>
+
+<div class="type-scale-demo-item"><span class="type-scale-demo-item-index">5</span><span class="type-scale-5">Don't settle for black and white.</span></div>
+
+<div class="type-scale-demo-item"><span class="type-scale-demo-item-index">6</span><span class="type-scale-6">Don't settle for black and white.</span></div>
+
+<div class="type-scale-demo-item"><span class="type-scale-demo-item-index">7</span><span class="type-scale-7">Don't settle for black and white.</span></div>
+
+<div class="type-scale-demo-item"><span class="type-scale-demo-item-index">8</span><span class="type-scale-8">Don't settle for black and white.</span></div>
+
+<div class="type-scale-demo-item"><span class="type-scale-demo-item-index">9</span><span class="type-scale-9">Don't settle for black and white.</span></div>
+
+<div class="type-scale-demo-item"><span class="type-scale-demo-item-index">10</span><span class="type-scale-10">Don't settle for black and white.</span></div>
+
 ## Use cases
 
 | Use Case | Font     | Size | Weight |
